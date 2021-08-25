@@ -1,7 +1,11 @@
 # bad_bank
 Bad Bank is an application that provides authorized users with the services of the bank. It helps bank customers and account managers to access to the information and perform basic actions with the accounts.
 
-Installation Guidelines: Clear instructions on how to get your project up and running (e.g., git clone, git pull, npm init).
+Installation Guidelines: 
+1. git clone https://github.com/KseniaDubrov/bad_bank.git
+2. cd bad_bank
+3. npm install
+4. node index.js
 
 <img width="700" alt="Screen Shot 2021-08-25 at 12 46 11 PM" src="https://user-images.githubusercontent.com/14004536/130831633-71f55d6e-fea4-439d-b32a-ed573b579c6f.png">
 <img width="700" alt="Screen Shot 2021-08-25 at 12 46 03 PM" src="https://user-images.githubusercontent.com/14004536/130831640-7c354a05-5526-4760-87d7-e3202ae3810e.png">
