@@ -6,6 +6,7 @@ Installation Guidelines:
 2. cd bad_bank
 3. npm install
 4. node index.js
+5. open http://localhost:3000/
 
 <img width="700" alt="Screen Shot 2021-08-25 at 12 46 11 PM" src="https://user-images.githubusercontent.com/14004536/130831633-71f55d6e-fea4-439d-b32a-ed573b579c6f.png">
 <img width="700" alt="Screen Shot 2021-08-25 at 12 46 03 PM" src="https://user-images.githubusercontent.com/14004536/130831640-7c354a05-5526-4760-87d7-e3202ae3810e.png">
